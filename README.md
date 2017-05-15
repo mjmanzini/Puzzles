@@ -25,7 +25,7 @@ $ Change the following Statements :
   <script src="src/Song.js"></script>
 To
    <!-- include source files here... -->
-   <script src="js/TechnicalTest.js"></script>
+   <script src="src/TechnicalTest.js"></script>
    
 $ Change the following Statements :  
      <!-- include spec files here... -->
