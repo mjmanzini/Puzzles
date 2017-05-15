@@ -37,7 +37,7 @@ Open file path Puzzles/src/Test.html. This will:
 
 * Open a plain html that will enable you to test the functionality of the puzzle
 
-Open file path Puzzles/src/SpecRunner.html . This will
+Open file path Puzzles/SpecRunner.html . This will
 
 *	open jasmine unit test display 
 
